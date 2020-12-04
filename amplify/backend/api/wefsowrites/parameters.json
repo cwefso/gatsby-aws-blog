@@ -1,0 +1,11 @@
+{
+    "AppSyncApiName": "wefsowrites",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST",
+    "DynamoDBEnableServerSideEncryption": false,
+    "AuthCognitoUserPoolId": {
+        "Fn::GetAtt": [
+            "authwefsowritesd00dd2e8",
+            "Outputs.UserPoolId"
+        ]
+    }
+}
