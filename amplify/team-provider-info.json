@@ -4,11 +4,11 @@
       "AuthRoleName": "amplify-wefsowrites-dev-113854-authRole",
       "UnauthRoleArn": "arn:aws:iam::140361390868:role/amplify-wefsowrites-dev-113854-unauthRole",
       "AuthRoleArn": "arn:aws:iam::140361390868:role/amplify-wefsowrites-dev-113854-authRole",
-      "Region": "eu-west-1",
+      "Region": "us-west-1",
       "DeploymentBucketName": "amplify-wefsowrites-dev-113854-deployment",
       "UnauthRoleName": "amplify-wefsowrites-dev-113854-unauthRole",
       "StackName": "amplify-wefsowrites-dev-113854",
-      "StackId": "arn:aws:cloudformation:eu-west-1:140361390868:stack/amplify-wefsowrites-dev-113854/f860f970-365f-11eb-9669-0a3e8cb44edb",
+      "StackId": "arn:aws:cloudformation:eu-west-1:140361390868:stack/amplify-wefsowrites-dev-113854-apiwefsowrites-1GR7MUHCYQHR2-CustomResourcesjson-6OGR44YU22HS/fdbd94c0-366c-11eb-8e72-069584494df4",
       "AmplifyAppId": "d2rm324zv6jo2d"
     },
     "categories": {
